@@ -5,17 +5,16 @@ from sklearn.linear_model import LinearRegression
 from sklearn.cross_validation import cross_val_score
 import numpy as np
 
-df = pd.read_csv("bomfim.csv")
-X = df[["quartos", "metros", "vagas"]]
-y = df["aluguel"] + df["condominio"]
+df = pd.read_csv("apartments.clean.csv")
+X = df[["bedrooms", "area"]]
+y = df["price"]
 
 # Visualization
 
-plt.scatter(X["metros"], y,
-            s=[quartos ** 2 * 200 for quartos in X["quartos"]],
-            c=["green" if vagas > 0 else "red" for vagas in X["vagas"]])
+plt.scatter(X["area"], y,
+            s=[quartos ** 2 * 200 for quartos in X["bedrooms"]])
 plt.xlabel("Metros")
-plt.ylabel("Aluguel + Condomínio")
+plt.ylabel("Aluguel")
 plt.show()
 
 
