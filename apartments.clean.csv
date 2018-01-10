@@ -1,0 +1,414 @@
+"neighborhood","price","bedrooms","area"
+"Centro",900,1,37
+"Auxiliadora",2600,2,68
+"Petrópolis",720,1,58
+"Teresópolis",1600,3,70
+"Moinhos de Vento",4125,1,32
+"Rio Branco",2200,3,228
+"Rio Branco",700,1,55
+"Tristeza",850,1,48
+"Chácara das Pedras",1400,2,85
+"Cristo Redentor",1200,1,58
+"Cristo Redentor",1000,2,60
+"Bom Fim",2400,2,63
+"Moinhos de Vento",3750,1,32
+"Chácara das Pedras",2800,3,110
+"Rio Branco",3400,2,90
+"Higienópolis",700,1,60
+"Tristeza",1200,2,51
+"Jardim Itu Sabará",1100,2,51
+"Jardim São Pedro",1400,3,85
+"Moinhos de Vento",2200,2,110
+"Centro Histórico",450,1,45
+"Bom Fim",1500,2,102
+"Bela Vista",2000,1,31
+"Mont Serrat",1150,2,94
+"Cristo Redentor",1000,2,60
+"Moinhos de Vento",3750,1,32
+"Chácara das Pedras",2800,3,110
+"Rio Branco",3400,2,90
+"Auxiliadora",2000,3,103
+"Higienópolis",700,1,60
+"Tristeza",1200,2,51
+"Jardim Itu Sabará",1100,2,51
+"Jardim São Pedro",1400,3,85
+"Moinhos de Vento",2200,2,110
+"Centro Histórico",450,1,45
+"Bom Fim",1500,2,102
+"Azenha",1450,2,74
+"Bela Vista",2650,2,72
+"Partenon",1000,2,65
+"Chácara das Pedras",1400,2,85
+"Cristo Redentor",1200,1,58
+"Bom Fim",2400,2,63
+"Moinhos de Vento",3750,1,32
+"Chácara das Pedras",2800,3,110
+"Rio Branco",3400,2,90
+"Higienópolis",700,1,60
+"Tristeza",1200,2,51
+"Jardim Itu Sabará",1100,2,51
+"Jardim São Pedro",1400,3,85
+"Moinhos de Vento",2200,2,110
+"Centro Histórico",450,1,45
+"Bom Fim",1500,2,102
+"Três Figueiras",2900,1,51
+"Azenha",600,2,63
+"Bela Vista",2700,1,47
+"Jardim São Pedro",1400,3,85
+"Moinhos de Vento",2200,2,110
+"Centro Histórico",450,1,45
+"Bom Fim",1500,2,102
+"Azenha",1450,2,74
+"Bela Vista",2650,2,72
+"Moinhos de Vento",3200,3,173
+"Tristeza",1500,2,120
+"Chácara das Pedras",2800,3,110
+"Rio Branco",3400,2,90
+"Bela Vista",2650,2,72
+"Bela Vista",2300,2,92
+"Teresópolis",1600,3,70
+"Moinhos de Vento",4125,1,32
+"Rio Branco",2200,3,228
+"Chácara das Pedras",1400,2,85
+"Cristo Redentor",1200,1,58
+"Cristo Redentor",1000,2,60
+"Moinhos de Vento",3750,1,32
+"Chácara das Pedras",2800,3,110
+"Rio Branco",3400,2,90
+"Auxiliadora",2000,3,103
+"Tristeza",1200,2,51
+"Jardim Itu Sabará",1100,2,51
+"Bom Fim",1500,2,102
+"Azenha",1450,2,74
+"Teresópolis",1600,3,70
+"Moinhos de Vento",4125,1,32
+"Rio Branco",2200,3,228
+"Higienópolis",700,1,60
+"Centro Histórico",450,1,45
+"Cidade Baixa",1100,1,40
+"Auxiliadora",2000,3,103
+"Centro Histórico",450,1,45
+"Bom Fim",1500,2,102
+"Azenha",1450,2,74
+"Bela Vista",2650,2,72
+"Teresópolis",1600,3,70
+"Moinhos de Vento",4125,1,32
+"Rio Branco",2200,3,228
+"Rio Branco",700,1,55
+"Tristeza",850,1,48
+"Chácara das Pedras",1400,2,85
+"Cristo Redentor",1200,1,58
+"Cristo Redentor",1000,2,60
+"Bom Fim",2400,2,63
+"Moinhos de Vento",3750,1,32
+"Higienópolis",700,1,60
+"Tristeza",1200,2,51
+"Jardim São Pedro",1400,3,85
+"Moinhos de Vento",2200,2,110
+"Bom Fim",1500,2,102
+"Santana",1455,2,80
+"Petrópolis",1250,2,64
+"Moinhos de Vento",4125,1,32
+"Rio Branco",2200,3,228
+"Chácara das Pedras",1400,2,85
+"Cristo Redentor",1200,1,58
+"Moinhos de Vento",3750,1,32
+"Chácara das Pedras",2800,3,110
+"Rio Branco",3400,2,90
+"Auxiliadora",2000,3,103
+"Higienópolis",700,1,60
+"Tristeza",1200,2,51
+"Jardim Itu Sabará",1100,2,51
+"Azenha",1450,2,74
+"Bela Vista",2650,2,72
+"Chácara das Pedras",1400,2,85
+"Cristo Redentor",1200,1,58
+"Cristo Redentor",1000,2,60
+"Moinhos de Vento",3750,1,32
+"Chácara das Pedras",2800,3,110
+"Rio Branco",3400,2,90
+"Auxiliadora",2000,3,103
+"Higienópolis",700,1,60
+"Tristeza",1200,2,51
+"Jardim Itu Sabará",1100,2,51
+"Jardim São Pedro",1400,3,85
+"Moinhos de Vento",2200,2,110
+"Centro Histórico",450,1,45
+"Bom Fim",1500,2,102
+"Azenha",1450,2,74
+"Bela Vista",2650,2,72
+"Auxiliadora",2000,3,103
+"Bela Vista",2650,2,72
+"Nonoai",1000,2,55
+"Rio Branco",2200,3,228
+"Cristo Redentor",1000,2,60
+"Jardim Itu Sabará",1100,2,51
+"Jardim São Pedro",1400,3,85
+"Moinhos de Vento",2200,2,110
+"Centro Histórico",450,1,45
+"Bom Fim",1500,2,102
+"Azenha",1450,2,74
+"Bela Vista",2650,2,72
+"Rio Branco",700,1,55
+"Tristeza",850,1,48
+"Cristo Redentor",1000,2,60
+"Bom Fim",2400,2,63
+"Rio Branco",3400,2,90
+"Higienópolis",700,1,60
+"Tristeza",1200,2,51
+"Jardim Itu Sabará",1100,2,51
+"Jardim São Pedro",1400,3,85
+"Moinhos de Vento",2200,2,110
+"Centro Histórico",450,1,45
+"Teresópolis",1600,3,70
+"Moinhos de Vento",4125,1,32
+"Rio Branco",2200,3,228
+"Chácara das Pedras",1400,2,85
+"Cristo Redentor",1200,1,58
+"Cristo Redentor",1000,2,60
+"Moinhos de Vento",3750,1,32
+"Chácara das Pedras",2800,3,110
+"Rio Branco",3400,2,90
+"Auxiliadora",2000,3,103
+"Higienópolis",700,1,60
+"Tristeza",1200,2,51
+"Jardim Itu Sabará",1100,2,51
+"Jardim São Pedro",1400,3,85
+"Moinhos de Vento",2200,2,110
+"Centro Histórico",450,1,45
+"Bom Fim",1500,2,102
+"Azenha",1450,2,74
+"Bela Vista",2650,2,72
+"Teresópolis",1600,3,70
+"Moinhos de Vento",2200,2,110
+"Teresópolis",1600,3,70
+"Moinhos de Vento",4125,1,32
+"Chácara das Pedras",1400,2,85
+"Cristo Redentor",1200,1,58
+"Cristo Redentor",1000,2,60
+"Moinhos de Vento",3750,1,32
+"Chácara das Pedras",2800,3,110
+"Rio Branco",3400,2,90
+"Auxiliadora",2000,3,103
+"Higienópolis",700,1,60
+"Tristeza",1200,2,51
+"Jardim Itu Sabará",1100,2,51
+"Jardim São Pedro",1400,3,85
+"Moinhos de Vento",2200,2,110
+"Centro Histórico",450,1,45
+"Bom Fim",1500,2,102
+"Azenha",1450,2,74
+"Bela Vista",2650,2,72
+"Rio Branco",2200,3,228
+"Cristo Redentor",1000,2,60
+"Moinhos de Vento",3750,1,32
+"Chácara das Pedras",2800,3,110
+"Higienópolis",700,1,60
+"Tristeza",1200,2,51
+"Jardim Itu Sabará",1100,2,51
+"Centro Histórico",450,1,45
+"Bom Fim",1500,2,102
+"Azenha",1450,2,74
+"Cidade Baixa",1650,3,88
+"Rio Branco",2200,3,228
+"Cristo Redentor",1200,1,58
+"Moinhos de Vento",3750,1,32
+"Chácara das Pedras",2800,3,110
+"Rio Branco",3400,2,90
+"Auxiliadora",2000,3,103
+"Higienópolis",700,1,60
+"Tristeza",1200,2,51
+"Jardim Itu Sabará",1100,2,51
+"Jardim São Pedro",1400,3,85
+"Moinhos de Vento",2200,2,110
+"Centro Histórico",450,1,45
+"Bela Vista",2650,2,72
+"Azenha",1450,2,74
+"Moinhos de Vento",4125,1,32
+"Rio Branco",700,1,55
+"Tristeza",850,1,48
+"Bom Fim",2400,2,63
+"Rio Branco",700,1,55
+"Chácara das Pedras",2800,3,110
+"Teresópolis",1600,3,70
+"Cristo Redentor",1200,1,58
+"Cristo Redentor",1000,2,60
+"Azenha",1450,2,74
+"Rio Branco",2200,3,228
+"Chácara das Pedras",1400,2,85
+"Jardim São Pedro",1400,3,85
+"Moinhos de Vento",2200,2,110
+"Centro Histórico",450,1,45
+"Bom Fim",1500,2,102
+"Azenha",1450,2,74
+"Bela Vista",2650,2,72
+"Jardim São Pedro",1400,3,85
+"Bom Fim",1500,2,102
+"Azenha",1450,2,74
+"Bela Vista",2650,2,72
+"Auxiliadora",2000,3,103
+"Teresópolis",1600,3,70
+"Moinhos de Vento",4125,1,32
+"Rio Branco",3400,2,90
+"Higienópolis",700,1,60
+"Tristeza",1200,2,51
+"Jardim Itu Sabará",1100,2,51
+"Moinhos de Vento",2200,2,110
+"Bom Fim",1500,2,102
+"Azenha",1450,2,74
+"Bela Vista",2650,2,72
+"Moinhos de Vento",3750,1,32
+"Rio Branco",3400,2,90
+"Auxiliadora",2000,3,103
+"Higienópolis",700,1,60
+"Bela Vista",2650,2,72
+"Moinhos de Vento",4125,1,32
+"Teresópolis",1600,3,70
+"Chácara das Pedras",1400,2,85
+"Cristo Redentor",1200,1,58
+"Chácara das Pedras",1400,2,85
+"Cristo Redentor",1000,2,60
+"Higienópolis",700,1,60
+"Tristeza",1200,2,51
+"Bom Fim",1500,2,102
+"Auxiliadora",2000,3,103
+"Tristeza",1200,2,51
+"Jardim Itu Sabará",1100,2,51
+"Jardim São Pedro",1400,3,85
+"Moinhos de Vento",2200,2,110
+"Centro Histórico",450,1,45
+"Bela Vista",2650,2,72
+"Azenha",1450,2,74
+"Bela Vista",2650,2,72
+"Teresópolis",1600,3,70
+"Moinhos de Vento",4125,1,32
+"Rio Branco",2200,3,228
+"Chácara das Pedras",1400,2,85
+"Cristo Redentor",1200,1,58
+"Cristo Redentor",1000,2,60
+"Moinhos de Vento",3750,1,32
+"Moinhos de Vento",4125,1,32
+"Chácara das Pedras",1400,2,85
+"Moinhos de Vento",3750,1,32
+"Chácara das Pedras",2800,3,110
+"Rio Branco",3400,2,90
+"Teresópolis",1600,3,70
+"Moinhos de Vento",4125,1,32
+"Rio Branco",2200,3,228
+"Chácara das Pedras",1400,2,85
+"Cristo Redentor",1200,1,58
+"Cristo Redentor",1000,2,60
+"Moinhos de Vento",3750,1,32
+"Chácara das Pedras",2800,3,110
+"Rio Branco",3400,2,90
+"Auxiliadora",2000,3,103
+"Higienópolis",700,1,60
+"Tristeza",1200,2,51
+"Jardim Itu Sabará",1100,2,51
+"Jardim São Pedro",1400,3,85
+"Moinhos de Vento",2200,2,110
+"Centro Histórico",450,1,45
+"Bom Fim",1500,2,102
+"Azenha",1450,2,74
+"Bela Vista",2650,2,72
+"Auxiliadora",2000,3,103
+"Tristeza",1200,2,51
+"Jardim Itu Sabará",1100,2,51
+"Jardim São Pedro",1400,3,85
+"Moinhos de Vento",2200,2,110
+"Centro Histórico",450,1,45
+"Bom Fim",1500,2,102
+"Azenha",1450,2,74
+"Bela Vista",2650,2,72
+"Teresópolis",1600,3,70
+"Cristo Redentor",1000,2,60
+"Chácara das Pedras",2800,3,110
+"Rio Branco",2200,3,228
+"Cristo Redentor",1200,1,58
+"Chácara das Pedras",2800,3,110
+"Auxiliadora",2000,3,103
+"Jardim Itu Sabará",1100,2,51
+"Jardim São Pedro",1400,3,85
+"Moinhos de Vento",2200,2,110
+"Centro Histórico",450,1,45
+"Teresópolis",1600,3,70
+"Moinhos de Vento",4125,1,32
+"Rio Branco",2200,3,228
+"Chácara das Pedras",1400,2,85
+"Cristo Redentor",1200,1,58
+"Cristo Redentor",1000,2,60
+"Moinhos de Vento",3750,1,32
+"Chácara das Pedras",2800,3,110
+"Rio Branco",3400,2,90
+"Auxiliadora",2000,3,103
+"Higienópolis",700,1,60
+"Tristeza",1200,2,51
+"Jardim Itu Sabará",1100,2,51
+"Jardim São Pedro",1400,3,85
+"Moinhos de Vento",2200,2,110
+"Centro Histórico",450,1,45
+"Bom Fim",1500,2,102
+"Azenha",1450,2,74
+"Auxiliadora",2000,3,103
+"Moinhos de Vento",2200,2,110
+"Praia de Belas",980,2,60
+"São Geraldo",950,2,68
+"Teresópolis",1600,3,70
+"Moinhos de Vento",4125,1,32
+"Rio Branco",2200,3,228
+"Chácara das Pedras",1400,2,85
+"Cristo Redentor",1200,1,58
+"Cristo Redentor",1000,2,60
+"Praia de Belas",980,2,60
+"São Geraldo",950,2,68
+"Praia de Belas",980,2,60
+"São Geraldo",950,2,68
+"Moinhos de Vento",4125,1,32
+"São Geraldo",950,2,68
+"São Geraldo",950,2,68
+"Praia de Belas",980,2,60
+"São Geraldo",950,2,68
+"Praia de Belas",980,2,60
+"São Geraldo",950,2,68
+"Praia de Belas",980,2,60
+"São Geraldo",950,2,68
+"São Geraldo",950,2,68
+"Praia de Belas",980,2,60
+"São Geraldo",950,2,68
+"São Geraldo",950,2,68
+"Praia de Belas",980,2,60
+"Praia de Belas",980,2,60
+"São Geraldo",950,2,68
+"Praia de Belas",980,2,60
+"São Geraldo",950,2,68
+"Praia de Belas",980,2,60
+"São Geraldo",950,2,68
+"São Geraldo",950,2,68
+"Rio Branco",3400,2,90
+"Auxiliadora",2000,3,103
+"Higienópolis",700,1,60
+"Tristeza",1200,2,51
+"São Geraldo",950,2,68
+"Praia de Belas",980,2,60
+"Moinhos de Vento",3750,1,32
+"Chácara das Pedras",2800,3,110
+"Rio Branco",3400,2,90
+"Higienópolis",700,1,60
+"Tristeza",1200,2,51
+"Jardim São Pedro",1400,3,85
+"Moinhos de Vento",2200,2,110
+"São Geraldo",950,2,68
+"Bom Fim",1500,2,102
+"Azenha",1450,2,74
+"Moinhos de Vento",4125,1,32
+"Praia de Belas",980,2,60
+"Cristo Redentor",1200,1,58
+"Cristo Redentor",1200,1,58
+"Cristo Redentor",1000,2,60
+"Moinhos de Vento",3750,1,32
+"Rio Branco",3400,2,90
+"São Geraldo",950,2,68
+"Bom Fim",1500,2,102
+"Moinhos de Vento",3750,1,32
+"Chácara das Pedras",2800,3,110
+"Auxiliadora",2000,3,103
